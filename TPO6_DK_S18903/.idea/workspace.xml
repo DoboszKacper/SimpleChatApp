@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24588c41-3a03-4921-b5c2-5d3b26a57a44" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cfZrk0G7FZn1uvyu38NBlqE0Oj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kacpe\Desktop\TPO6_DK_S18903\bin" />
+      <recent name="C:\Users\kacpe\Desktop\TPO6_DK_S18903" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="jms1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ChatTwo">
+    <configuration name="ChatOne" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="jms1.cmdChat.CommandLineChat" />
+      <module name="TPO6_DK_S18903" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jms1.cmdChat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatTwo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="jms1.cmdChat.CommandLineChat" />
+      <module name="TPO6_DK_S18903" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jms1.cmdChat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_TPO6_DK_S18903" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58796" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ChatOne" />
+      <item itemvalue="Application.ChatTwo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ChatTwo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24588c41-3a03-4921-b5c2-5d3b26a57a44" name="Default Changelist" comment="" />
+      <created>1590921808469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590921808469</updated>
+      <workItem from="1590921811548" duration="2571000" />
+      <workItem from="1591028954578" duration="845000" />
+      <workItem from="1591128733756" duration="9000" />
+      <workItem from="1591178911309" duration="5081000" />
+      <workItem from="1591263928397" duration="7091000" />
+      <workItem from="1591350641195" duration="2245000" />
+      <workItem from="1591356478152" duration="1263000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1548" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591351229795">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1548" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400/-1920.0.1920.1040@0.0.3440.1400" timestamp="1591351229795" />
+    <state x="-1068" y="428" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1591356732216">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1068" y="428" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.3440.1400/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1591356732216" />
+    <state x="1527" y="576" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.3440.1400/-1920.0.1920.1040@0.0.3440.1400" timestamp="1591303747424" />
+    <state x="1525" y="409" key="#com.intellij.ide.util.MemberChooser" timestamp="1591306565918">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1525" y="409" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1400/-1920.0.1920.1040@0.0.3440.1400" timestamp="1591306565918" />
+    <state x="1550" y="386" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1591303823075">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1550" y="386" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.3440.1400/-1920.0.1920.1040@0.0.3440.1400" timestamp="1591303823075" />
+    <state x="-1083" y="338" key="FileChooserDialogImpl" timestamp="1591356715639">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1083" y="338" key="FileChooserDialogImpl/0.0.3440.1400/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1591356715639" />
+    <state x="1500" y="455" key="FileChooserDialogImpl/0.0.3440.1400/-1920.0.1920.1040@0.0.3440.1400" timestamp="1591356117990" />
+    <state width="3397" height="224" key="GridCell.Tab.0.bottom" timestamp="1591369230060">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1877" height="235" key="GridCell.Tab.0.bottom/0.0.3440.1400/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1591356989761" />
+    <state width="3397" height="224" key="GridCell.Tab.0.bottom/0.0.3440.1400/-1920.0.1920.1040@0.0.3440.1400" timestamp="1591369230060" />
+    <state width="3397" height="224" key="GridCell.Tab.0.center" timestamp="1591369230060">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1877" height="235" key="GridCell.Tab.0.center/0.0.3440.1400/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1591356989761" />
+    <state width="3397" height="224" key="GridCell.Tab.0.center/0.0.3440.1400/-1920.0.1920.1040@0.0.3440.1400" timestamp="1591369230060" />
+    <state width="3397" height="224" key="GridCell.Tab.0.left" timestamp="1591369230060">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1877" height="235" key="GridCell.Tab.0.left/0.0.3440.1400/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1591356989761" />
+    <state width="3397" height="224" key="GridCell.Tab.0.left/0.0.3440.1400/-1920.0.1920.1040@0.0.3440.1400" timestamp="1591369230060" />
+    <state width="3397" height="224" key="GridCell.Tab.0.right" timestamp="1591369230060">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1877" height="235" key="GridCell.Tab.0.right/0.0.3440.1400/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1591356989761" />
+    <state width="3397" height="224" key="GridCell.Tab.0.right/0.0.3440.1400/-1920.0.1920.1040@0.0.3440.1400" timestamp="1591369230060" />
+    <state width="3397" height="157" key="GridCell.Tab.1.bottom" timestamp="1591185619777">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3397" height="157" key="GridCell.Tab.1.bottom/0.0.3440.1400/-1920.0.1920.1040@0.0.3440.1400" timestamp="1591185619777" />
+    <state width="3397" height="157" key="GridCell.Tab.1.center" timestamp="1591185619777">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3397" height="157" key="GridCell.Tab.1.center/0.0.3440.1400/-1920.0.1920.1040@0.0.3440.1400" timestamp="1591185619777" />
+    <state width="3397" height="157" key="GridCell.Tab.1.left" timestamp="1591185619777">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3397" height="157" key="GridCell.Tab.1.left/0.0.3440.1400/-1920.0.1920.1040@0.0.3440.1400" timestamp="1591185619777" />
+    <state width="3397" height="157" key="GridCell.Tab.1.right" timestamp="1591185619777">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3397" height="157" key="GridCell.Tab.1.right/0.0.3440.1400/-1920.0.1920.1040@0.0.3440.1400" timestamp="1591185619777" />
+    <state x="-1250" y="189" key="SettingsEditor" timestamp="1591356744690">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1250" y="189" key="SettingsEditor/0.0.3440.1400/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1591356744690" />
+    <state x="1200" y="274" key="SettingsEditor/0.0.3440.1400/-1920.0.1920.1040@0.0.3440.1400" timestamp="1591303825989" />
+    <state x="1416" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1591356516172">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1416" y="524" key="com.intellij.ide.util.TipDialog/0.0.3440.1400/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1591356516172" />
+    <state x="1416" y="524" key="com.intellij.ide.util.TipDialog/0.0.3440.1400/-1920.0.1920.1040@0.0.3440.1400" timestamp="1591350641540" />
+    <state x="1102" y="283" key="new project wizard" timestamp="1591185617989">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1102" y="283" key="new project wizard/0.0.3440.1400/-1920.0.1920.1040@0.0.3440.1400" timestamp="1591185617989" />
+    <state x="1376" y="330" key="run.anything.popup" timestamp="1591306136703">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1376" y="330" key="run.anything.popup/0.0.3440.1400/-1920.0.1920.1040@0.0.3440.1400" timestamp="1591306136703" />
+    <state x="1383" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1591351100917">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1383" y="315" width="672" height="678" key="search.everywhere.popup/0.0.3440.1400/-1920.0.1920.1040@0.0.3440.1400" timestamp="1591351100917" />
+  </component>
+</project>
